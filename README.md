@@ -1,5 +1,5 @@
 # jni-library
-A gradle plugin for generating a JNI library.
+A (WiP) gradle plugin for generating a JNI library.
 
 ## Goals / TODO
 - Motivated by: https://github.com/nokeedev/gradle-native and https://docs.nokee.dev/samples/jni-library-composing-from-source/,

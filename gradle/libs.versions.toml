@@ -1,0 +1,6 @@
+[versions]
+kotlin = "2.0.0"
+
+[plugins]
+kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
+git-version = { id = "me.qoomon.git-versioning", version = "6.4.3" }
